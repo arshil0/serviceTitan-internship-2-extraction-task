@@ -17,7 +17,7 @@ class CustomerDataExtractor:
 
         self.dataframe = pd.DataFrame(data)
         #print(self.dataframe["orders"][0])
-        #self.dataframe.to_csv("test.csv")
+        #self.dataframe.to_csv("original_data.csv")
 
 
     def generate_dataframe(self):
@@ -188,11 +188,11 @@ class CustomerDataExtractor:
 
         
         #print(final_dataframe)
-        print(len(final_dataframe["customer_id"]))
-        print(len(final_dataframe["order_id"]))
-        print(len(final_dataframe["product_id"]))
-        print(len(final_dataframe["item_quantity"]))
-        pd.DataFrame(final_dataframe).to_csv("test2.csv")
+        #print(len(final_dataframe["customer_id"]))
+        #print(len(final_dataframe["order_id"]))
+        #print(len(final_dataframe["product_id"]))
+        #print(len(final_dataframe["item_quantity"]))
+        pd.DataFrame(final_dataframe).to_csv("extracted_data.csv")
                 
 
 
