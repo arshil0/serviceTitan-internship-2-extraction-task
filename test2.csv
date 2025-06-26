@@ -1,0 +1,238 @@
+,customer_id,customer_name,registration_date,is_vip,order_id,order_date,product_id,product_name,category,unit_price,item_quantity,total_item_price,total_order_value_percentage
+0,1,Customer 1,2022-12-31 04:19:19,True,84,2024-02-27 21:24:16,None,None,None,None,None,None,None
+1,1,Customer 1,2022-12-31 04:19:19,True,,2025-03-05 08:09:20,1,Item 1 for Order 2,4,52.7,2,105.4,None
+2,1,Customer 1,2022-12-31 04:19:19,True,,2025-03-05 08:09:20,2,Item 2 for Order 2,5,498.45,5,2492.25,None
+3,1,Customer 1,2022-12-31 04:19:19,True,,2025-03-05 08:09:20,3,Item 3 for Order 2,5,168.15,1,168.15,None
+4,1,Customer 1,2022-12-31 04:19:19,True,3,2023-06-09 00:42:50,1,Item 1 for Order 3,1,377.9,1,377.9,None
+5,2,Customer 2,2022-05-27 00:23:28,False,3,2023-01-01 07:32:50,None,None,None,None,None,None,None
+6,2,Customer 2,2022-05-27 00:23:28,False,5,2024-08-28 19:37:56,1,Item 1 for Order 5,5,342.68,2,685.36,None
+7,2,Customer 2,2022-05-27 00:23:28,False,5,2024-08-28 19:37:56,2,Item 2 for Order 5,2,134.09,0,0,None
+8,2,Customer 2,2022-05-27 00:23:28,False,5,2024-08-28 19:37:56,3,Item 3 for Order 5,1,295.97,1,295.97,None
+9,2,Customer 2,2022-05-27 00:23:28,False,5,2024-08-28 19:37:56,4,Item 4 for Order 5,5,316.01,4,1264.04,None
+10,2,Customer 2,2022-05-27 00:23:28,False,6,2024-08-19 12:44:15,1,Item 1 for Order 6,4,404.43,4,1617.72,None
+11,2,Customer 2,2022-05-27 00:23:28,False,6,2024-08-19 12:44:15,2,Item 2 for Order 6, Home Goods ,145.27,3,435.81000000000006,None
+12,3,Customer 3,2022-01-20 00:24:36,False,7,2023-10-21 05:21:52,1,Item 1 for Order 7,1,180.68,3,542.04,None
+13,3,Customer 3,2022-01-20 00:24:36,False,7,2023-10-21 05:21:52,2,Item 2 for Order 7,99,390.37,2,780.74,None
+14,3,Customer 3,2022-01-20 00:24:36,False,7,2023-10-21 05:21:52,,Item 3 for Order 7,4,19.1,5,95.5,None
+15,3,Customer 3,2022-01-20 00:24:36,False,7,2023-10-21 05:21:52,4,Item 4 for Order 7,3,393.32,3,1179.96,None
+16,3,Customer 3,2022-01-20 00:24:36,False,7,2025-03-19 19:55:40,None,None,None,None,None,None,None
+17,4,Customer 4,2022-05-09 03:51:05,True,,2025-01-02 21:43:33,1,Item 1 for Order 9,2,498.83,1,498.83,None
+18,4,Customer 4,2022-05-09 03:51:05,True,,2025-01-02 21:43:33,2,   ,0,37.13,1,37.13,None
+19,4,Customer 4,2022-05-09 03:51:05,True,,2025-01-02 21:43:33,3,Item 3 for Order 9,home goods,278.53,2,557.06,None
+20,4,Customer 4,2022-05-09 03:51:05,True,,2025-01-02 21:43:33,4,Item 4 for Order 9,5,416.93,2,833.86,None
+21,4,Customer 4,2022-05-09 03:51:05,True,10,2025-02-16 23:36:58,1,Item 1 for Order 10,1,140.12,1,140.12,None
+22,4,Customer 4,2022-05-09 03:51:05,True,10,2025-02-16 23:36:58,2,Item 2 for Order 10,2,61.37,5,306.84999999999997,None
+23,5,Customer 5,2022-03-07 03:27:02,False,None,None,None,None,None,None,None,None,None
+24,6,Customer 6,2023-08-07 11:01:29,False,10,2025-06-16 23:38:58,None,None,None,None,None,None,None
+25,7,Customer 7,2022-05-05 12:49:27,False,10,2024-03-29 19:35:24,None,None,None,None,None,None,None
+26,7,Customer 7,2022-05-05 12:49:27,False,13,2025-01-16 09:12:03,1,Item 1 for Order 13,home goods,10.39,3,31.17,None
+27,7,Customer 7,2022-05-05 12:49:27,False,13,2025-01-16 09:12:03,2,Item 2 for Order 13,4,88.83,2,177.66,None
+28,7,Customer 7,2022-05-05 12:49:27,False,13,2025-01-16 09:12:03,3,Item 3 for Order 13,2,479.75,5,2398.75,None
+29,7,Customer 7,2022-05-05 12:49:27,False,13,2025-01-16 09:12:03,4,Item 4 for Order 13,2,389.02,5,1945.1,None
+30,8,Customer 8,2022-01-15 19:06:56,True,ORD14,2023-10-02 15:29:15,1,Item 1 for Order 14,3,343.64,5,1718.1999999999998,None
+31,8,Customer 8,2022-01-15 19:06:56,True,15,2023-08-20 02:36:30,,Item 1 for Order 15,2,271.69,4,1086.76,None
+32,8,Customer 8,2022-01-15 19:06:56,True,15,2023-08-20 02:36:30,2,Item 2 for Order 15,2,326.56,3,979.6800000000001,None
+33,8,Customer 8,2022-01-15 19:06:56,True,15,2023-08-20 02:36:30,3,Item 3 for Order 15,99,0,0,0,None
+34,9,Customer 9,2022-01-18 20:53:36,False,16,2023-12-11 16:01:13,1,Item 1 for Order 16,0,455.9,1,455.9,None
+35,9,Customer 9,2022-01-18 20:53:36,False,16,2023-12-11 16:01:13,2,Item 2 for Order 16,4,469.09,4,1876.36,None
+36,9,Customer 9,2022-01-18 20:53:36,False,16,2023-12-11 16:01:13,3,Item 3 for Order 16,99,16.97,5,84.85,None
+37,9,Customer 9,2022-01-18 20:53:36,False,16,2023-12-11 16:01:13,4,Item 4 for Order 16,0,99.69,1,99.69,None
+38,9,Customer 9,2022-01-18 20:53:36,False,17,2024-06-12 14:20:30,1,Item 1 for Order 17,2,349.2,1,349.2,None
+39,9,Customer 9,2022-01-18 20:53:36,False,18,2025-03-01 16:45:51,1,Item 1 for Order 18,1,466.33,1,466.33,None
+40,9,Customer 9,2022-01-18 20:53:36,False,18,2025-03-01 16:45:51,2,Item 2 for Order 18,3,33.03,3,99.09,None
+41,9,Customer 9,2022-01-18 20:53:36,False,19,2025-03-31 16:55:58,1,Item 1 for Order 19,1,362.25,2,724.5,None
+42,10,Customer 10,2024-04-06 17:57:38,False,20,2025-05-30 19:26:40,1,Item 1 for Order 20,4,342.76,2,685.52,None
+43,10,Customer 10,2024-04-06 17:57:38,False,21,2025-03-25 10:08:03,1,Item 1 for Order 21,1,447.97,5,2239.8500000000004,None
+44,10,Customer 10,2024-04-06 17:57:38,False,21,2025-03-25 10:08:03,2,Item 2 for Order 21,1,416.21,3,1248.6299999999999,None
+45,11,Customer 11,2022-03-17 02:58:46,True,None,None,None,None,None,None,None,None,None
+46,12,Customer 12,2023-07-09 00:00:00,False,22,2025-04-19 18:17:21,1,Item 1 for Order 22,3,46.84,1,46.84,None
+47,12,Customer 12,2023-07-09 00:00:00,False,22,2025-04-19 18:17:21,2,Item 2 for Order 22, Home Goods ,47.13,4,188.52,None
+48,12,Customer 12,2023-07-09 00:00:00,False,22,2025-04-19 18:17:21,3,Item 3 for Order 22,4,264.4,1,264.4,None
+49,12,Customer 12,2023-07-09 00:00:00,False,23,2024-07-13 20:31:44,1,Item 1 for Order 23,99,172.16,5,860.8,None
+50,13,Customer 13,2023-10-30 07:34:32,False,23,2024-06-23 21:55:53,None,None,None,None,None,None,None
+51,13,Customer 13,2023-10-30 07:34:32,False,25,2024-11-13 16:17:30,,Item 1 for Order 25,0,120.09,3,360.27,None
+52,13,Customer 13,2023-10-30 07:34:32,False,25,2024-11-13 16:17:30,2,Item 2 for Order 25,5,382.92,1,382.92,None
+53,14,Customer 14,2023-04-28 01:20:45,False,25,2023-03-12 11:25:05,None,None,None,None,None,None,None
+54,14,Customer 14,2023-04-28 01:20:45,False,27,2025-05-26 05:06:38,1,Item 1 for Order 27,2,294.93,2,589.86,None
+55,14,Customer 14,2023-04-28 01:20:45,False,27,2025-05-26 05:06:38,,Item 2 for Order 27,1,207.23,4,828.92,None
+56,14,Customer 14,2023-04-28 01:20:45,False,27,2025-05-26 05:06:38,3,Item 3 for Order 27,4,18.35,5,91.75,None
+57,14,Customer 14,2023-04-28 01:20:45,False,27,2025-05-26 05:06:38,4,Item 4 for Order 27,3,46.24,1,46.24,None
+58,14,Customer 14,2023-04-28 01:20:45,False,27,2025-05-26 05:06:38,5,Item 5 for Order 27,2,255.05,4,1020.2,None
+59,14,Customer 14,2023-04-28 01:20:45,False,27,2024-03-17 05:41:44,None,None,None,None,None,None,None
+60,15,Customer 15,2023-01-05 10:56:57,True,27,2023-04-20 13:39:59,None,None,None,None,None,None,None
+61,16,Customer 16,2022-09-22 19:35:51,False,30,2024-08-10 00:29:36,1,Item 1 for Order 30, Electronics ,93.46,3,280.38,None
+62,16,Customer 16,2022-09-22 19:35:51,False,30,2024-08-10 00:29:36,2,Item 2 for Order 30,4,90.41,0,0,None
+63,16,Customer 16,2022-09-22 19:35:51,False,30,2024-08-10 00:29:36,3,Item 3 for Order 30,4,95.09,5,475.45000000000005,None
+64,16,Customer 16,2022-09-22 19:35:51,False,31,2022-09-25 13:20:07,1,Item 1 for Order 31,3,30.93,1,30.93,None
+65,16,Customer 16,2022-09-22 19:35:51,False,31,2022-09-25 13:20:07,2,Item 2 for Order 31,1,185.62,5,928.1,None
+66,16,Customer 16,2022-09-22 19:35:51,False,31,2022-09-25 13:20:07,3,Item 3 for Order 31,1,120.9,1,120.9,None
+67,16,Customer 16,2022-09-22 19:35:51,False,31,2022-09-25 13:20:07,4,Item 4 for Order 31,0,184.73,2,369.46,None
+68,16,Customer 16,2022-09-22 19:35:51,False,31,2022-09-25 13:20:07,5,Item 5 for Order 31,1,INVALID,3,INVALIDINVALIDINVALID,None
+69,17,Customer 17,2022-07-15 23:17:14,True,32,2023-05-17 05:41:03,,Item 1 for Order 32,1,312.52,4,1250.08,None
+70,17,Customer 17,2022-07-15 23:17:14,True,32,2023-05-17 05:41:03,2,Item 2 for Order 32,3,360.82,5,1804.1,None
+71,17,Customer 17,2022-07-15 23:17:14,True,32,2023-05-17 05:41:03,3,Item 3 for Order 32,3,372.73,2,745.46,None
+72,17,Customer 17,2022-07-15 23:17:14,True,32,2023-05-17 05:41:03,4,Item 4 for Order 32,5,482.97,4,1931.88,None
+73,17,Customer 17,2022-07-15 23:17:14,True,33,2024-02-18 18:51:35,1,Item 1 for Order 33,4,167.32,1,167.32,None
+74,17,Customer 17,2022-07-15 23:17:14,True,33,2024-02-18 18:51:35,2,Item 2 for Order 33,home goods,314.34,3,943.02,None
+75,17,Customer 17,2022-07-15 23:17:14,True,33,2024-02-18 18:51:35,3,Item 3 for Order 33,99,INVALID,5,INVALIDINVALIDINVALIDINVALIDINVALID,None
+76,17,Customer 17,2022-07-15 23:17:14,True,33,2024-02-18 18:51:35,,Item 4 for Order 33,4,80.89,1,80.89,None
+77,17,Customer 17,2022-07-15 23:17:14,True,33,2024-02-18 18:51:35,5,Item 5 for Order 33,3,269.42,3,808.26,None
+78,17,Customer 17,2022-07-15 23:17:14,True,34,2024-04-07 01:52:04,1,Item 1 for Order 34,0,168.54,1,168.54,None
+79,17,Customer 17,2022-07-15 23:17:14,True,34,2024-04-07 01:52:04,2,Item 2 for Order 34,1,267.12,4,1068.48,None
+80,17,Customer 17,2022-07-15 23:17:14,True,34,2024-04-07 01:52:04,3,Item 3 for Order 34,0,398.3,3,1194.9,None
+81,17,Customer 17,2022-07-15 23:17:14,True,34,2024-04-07 01:52:04,4,Item 4 for Order 34,APPAREL,492.5,2,985.0,None
+82,18,Customer 18,2023-12-07 02:31:09,False,,2025-04-14 18:21:25,1,Item 1 for Order 35,4,237.86,1,237.86,None
+83,18,Customer 18,2023-12-07 02:31:09,False,,2025-04-14 18:21:25,2,Item 2 for Order 35,5,296.89,3,890.67,None
+84,18,Customer 18,2023-12-07 02:31:09,False,,2025-04-14 18:21:25,,Item 3 for Order 35,4,295.12,3,885.36,None
+85,18,Customer 18,2023-12-07 02:31:09,False,,2025-04-14 18:21:25,4,Item 4 for Order 35,2,497.44,4,1989.76,None
+86,18,Customer 18,2023-12-07 02:31:09,False,36,2024-03-15 22:05:36,1,Item 1 for Order 36,3,27.3,2,54.6,None
+87,18,Customer 18,2023-12-07 02:31:09,False,36,2024-03-15 22:05:36,2,Item 2 for Order 36, Electronics ,217.33,5,1086.65,None
+88,18,Customer 18,2023-12-07 02:31:09,False,36,2024-03-15 22:05:36,3,Item 3 for Order 36,1,86.7,3,260.1,None
+89,18,Customer 18,2023-12-07 02:31:09,False,36,2024-03-15 22:05:36,4,Item 4 for Order 36,0,185.34,1,185.34,None
+90,18,Customer 18,2023-12-07 02:31:09,False,37,2024-01-13 01:55:27,1,Item 1 for Order 37,1,417.11,2,834.22,None
+91,18,Customer 18,2023-12-07 02:31:09,False,37,2024-01-13 01:55:27,2,Item 2 for Order 37,3,404.08,0,0,None
+92,18,Customer 18,2023-12-07 02:31:09,False,37,2024-01-13 01:55:27,3,Item 3 for Order 37,5,175.25,3,525.75,None
+93,18,Customer 18,2023-12-07 02:31:09,False,37,2024-01-13 01:55:27,4,Item 4 for Order 37,3,130.45,4,521.8,None
+94,18,Customer 18,2023-12-07 02:31:09,False,37,2024-01-13 01:55:27,5,Item 5 for Order 37,1,INVALID,3,INVALIDINVALIDINVALID,None
+95,18,Customer 18,2023-12-07 02:31:09,False,38,2024-03-27 02:25:19,1,Item 1 for Order 38,home goods,397.95, 4 ,1591.8,None
+96,18,Customer 18,2023-12-07 02:31:09,False,38,2024-03-27 02:25:19,2,Item 2 for Order 38,0,219.48,2,438.96,None
+97,18,Customer 18,2023-12-07 02:31:09,False,38,2024-03-27 02:25:19,3,Item 3 for Order 38, Electronics ,263.83,2,527.66,None
+98,18,Customer 18,2023-12-07 02:31:09,False,38,2024-03-27 02:25:19,4,Item 4 for Order 38,5,432.88,1,432.88,None
+99,19,Customer 19,2022-06-28 20:09:12,False,None,None,None,None,None,None,None,None,None
+100,20,Customer 20,2022-11-11 15:05:46,False,38,2024-09-15 22:51:11,None,None,None,None,None,None,None
+101,20,Customer 20,2022-11-11 15:05:46,False,38,2025-04-18 01:17:05,None,None,None,None,None,None,None
+102,20,Customer 20,2022-11-11 15:05:46,False,41,2024-09-18 02:12:44,1,Item 1 for Order 41,1,146.49,1,146.49,None
+103,20,Customer 20,2022-11-11 15:05:46,False,41,2024-09-18 02:12:44,,Item 2 for Order 41,0,352.14,1,352.14,None
+104,21,Customer 21,2024-02-01 12:36:34,False,42,2024-06-12 11:58:26,,Item 1 for Order 42,2,465.14,3,1395.42,None
+105,21,Customer 21,2024-02-01 12:36:34,False,42,2024-06-12 11:58:26,2,Item 2 for Order 42,5,410.04,1,410.04,None
+106,21,Customer 21,2024-02-01 12:36:34,False,42,2024-06-12 11:58:26,3,Item 3 for Order 42,1,102.67,2,205.34,None
+107,21,Customer 21,2024-02-01 12:36:34,False,42,2024-06-12 11:58:26,4,Item 4 for Order 42,2,393.28,3,1179.84,None
+108,21,Customer 21,2024-02-01 12:36:34,False,42,2024-06-12 11:58:26,5,   ,0,92.06,3,276.18,None
+109,21,Customer 21,2024-02-01 12:36:34,False,42,2025-07-06 20:55:09,None,None,None,None,None,None,None
+110,21,Customer 21,2024-02-01 12:36:34,False,44,2024-09-27 21:48:09,1,Item 1 for Order 44,3,471.13,3,1413.3899999999999,None
+111,22,Customer 22,,False,44,2025-03-27 05:11:50,None,None,None,None,None,None,None
+112,22,Customer 22,,False,46,,1,Item 1 for Order 46,1,177.14,4,708.56,None
+113,22,Customer 22,,False,47,2025-01-25 05:23:37,1,Item 1 for Order 47,Misc Item,85.17,1,85.17,None
+114,22,Customer 22,,False,47,2025-01-25 05:23:37,,Item 2 for Order 47,2,116.82,2,233.64,None
+115,22,Customer 22,,False,48,2025-02-28 17:05:51,1,Item 1 for Order 48,5,279.27,4,1117.08,None
+116,22,Customer 22,,False,48,2025-02-28 17:05:51,,Item 2 for Order 48,electronics,240.43,1,240.43,None
+117,23,Customer 23,2024-04-07 14:32:58,True,None,None,None,None,None,None,None,None,None
+118,24,Customer 24,2024-01-09 15:14:20,False,48,2024-01-23 02:32:24,None,None,None,None,None,None,None
+119,24,Customer 24,2024-01-09 15:14:20,False,50,2024-11-03 23:16:47,1,Item 1 for Order 50,3,149.71,4,598.84,None
+120,24,Customer 24,2024-01-09 15:14:20,False,50,2024-11-03 23:16:47,2,,3,286.85,2,573.7,None
+121,24,Customer 24,2024-01-09 15:14:20,False,50,2024-11-03 23:16:47,3,Item 3 for Order 50,1,64.47,2,128.94,None
+122,24,Customer 24,2024-01-09 15:14:20,False,50,2024-11-03 23:16:47,4,Item 4 for Order 50,1,283.93,4,1135.72,None
+123,25,Customer 25,2024-05-28 15:55:42,False,None,None,None,None,None,None,None,None,None
+124,26,Customer 26,2023-11-07 03:45:18,False,50,2024-05-10 12:03:53,None,None,None,None,None,None,None
+125,26,Customer 26,2023-11-07 03:45:18,False,52,2016-08-24 00:00:00,1,Item 1 for Order 52,4,493.25,1,493.25,None
+126,26,Customer 26,2023-11-07 03:45:18,False,52,2016-08-24 00:00:00,2,Item 2 for Order 52,1,236.33,4,945.32,None
+127,26,Customer 26,2023-11-07 03:45:18,False,52,2016-08-24 00:00:00,3,Item 3 for Order 52,2,132.31,5,661.55,None
+128,27,Customer 27,2022-03-04 08:57:45,False,53,2022-07-09 18:34:43,1,Item 1 for Order 53,2,71.47,1,71.47,None
+129,27,Customer 27,2022-03-04 08:57:45,False,53,2022-07-09 18:34:43,2,Item 2 for Order 53,99,485.08,2,970.16,None
+130,27,Customer 27,2022-03-04 08:57:45,False,53,2024-03-21 23:49:18,None,None,None,None,None,None,None
+131,27,Customer 27,2022-03-04 08:57:45,False,55,2022-02-09 14:36:25,1,Item 1 for Order 55,4,122.6,1,122.6,None
+132,27,Customer 27,2022-03-04 08:57:45,False,55,2022-02-09 14:36:25,2,Item 2 for Order 55,2,212.49,4,849.96,None
+133,27,Customer 27,2022-03-04 08:57:45,False,55,2022-02-09 14:36:25,3,Item 3 for Order 55,5,408.54,5,2042.7,None
+134,28,Customer 28,2022-12-14 20:48:48,False,55,2023-10-19 06:58:31,None,None,None,None,None,None,None
+135,28,Customer 28,2022-12-14 20:48:48,False,ORD57,2024-08-28 06:03:00,,Item 1 for Order 57,1,475.22,3,1425.66,None
+136,28,Customer 28,2022-12-14 20:48:48,False,ORD57,2024-08-28 06:03:00,2,Item 2 for Order 57,2,111.98,2,223.96,None
+137,28,Customer 28,2022-12-14 20:48:48,False,ORD57,2024-08-28 06:03:00,3,Item 3 for Order 57,0,145.15,4,580.6,None
+138,28,Customer 28,2022-12-14 20:48:48,False,ORD57,2024-08-28 06:03:00,4,Item 4 for Order 57,5,457.98,2,915.96,None
+139,28,Customer 28,2022-12-14 20:48:48,False,58,2024-11-05 05:12:07,1,Item 1 for Order 58,5,126.61,3,379.83,None
+140,28,Customer 28,2022-12-14 20:48:48,False,58,2024-11-05 05:12:07,2,Item 2 for Order 58,home goods,350.16,1,350.16,None
+141,29,Customer 29,2022-01-15 22:43:18,False,59,2023-01-13 00:00:00,1,Item 1 for Order 59,Misc Item,368.44,1,368.44,None
+142,30,Customer 30,2023-12-02 08:35:54,False,,2024-03-09 05:51:36,1,Item 1 for Order 60,4,194.17,2,388.34,None
+143,30,Customer 30,2023-12-02 08:35:54,False,61,2024-02-03 19:32:42,1,Item 1 for Order 61,home goods,134.12,5,670.6,None
+144,30,Customer 30,2023-12-02 08:35:54,False,61,2024-02-03 19:32:42,2,Item 2 for Order 61,home goods,14.4,5,72.0,None
+145,30,Customer 30,2023-12-02 08:35:54,False,61,2024-02-03 19:32:42,3,Item 3 for Order 61,1,0,0,0,None
+146,30,Customer 30,2023-12-02 08:35:54,False,61,2024-02-03 19:32:42,4,Item 4 for Order 61, Electronics ,442.97,4,1771.88,None
+147,30,Customer 30,2023-12-02 08:35:54,False,61,2024-02-03 19:32:42,5,Item 5 for Order 61,5,184.5,0,0,None
+148,31,Customer 31,2022-01-19 14:05:01,False,None,None,None,None,None,None,None,None,None
+149,32,Customer 32,2024-04-21 10:31:56,False,62,2024-07-19 20:14:13,1,Item 1 for Order 62,0,205.94,2,411.88,None
+150,32,Customer 32,2024-04-21 10:31:56,False,62,2024-07-19 20:14:13,2,Item 2 for Order 62,home goods,435.42,2,870.84,None
+151,32,Customer 32,2024-04-21 10:31:56,False,62,2024-07-19 20:14:13,3,Item 3 for Order 62,5,97.8,5,489.0,None
+152,33,Customer 33,2024-03-21 23:09:37,False,63,2024-05-16 13:52:48,1,Item 1 for Order 63,4,237.81,3,713.4300000000001,None
+153,33,Customer 33,2024-03-21 23:09:37,False,63,2024-04-29 16:36:42,None,None,None,None,None,None,None
+154,33,Customer 33,2024-03-21 23:09:37,False,65,2024-11-15 16:58:40,1,Item 1 for Order 65,5,128.91,4,515.64,None
+155,34,Customer 34,2024-01-23 20:09:55,False,None,None,None,None,None,None,None,None,None
+156,35,Customer 35,2023-11-21 20:06:46,True,66,2025-10-01 19:17:39,1,Item 1 for Order 66,0,206.04,1,206.04,None
+157,35,Customer 35,2023-11-21 20:06:46,True,66,2025-10-01 19:17:39,2,Item 2 for Order 66,1,INVALID,2,INVALIDINVALID,None
+158,35,Customer 35,2023-11-21 20:06:46,True,66,2025-10-01 19:17:39,3,Item 3 for Order 66,4,81.96,2,163.92,None
+159,35,Customer 35,2023-11-21 20:06:46,True,66,2025-10-01 19:17:39,4,Item 4 for Order 66,4,197.91,1,197.91,None
+160,35,Customer 35,2023-11-21 20:06:46,True,67,2024-04-29 14:10:06,1,Item 1 for Order 67,4,358.73,4,1434.92,None
+161,35,Customer 35,2023-11-21 20:06:46,True,ORD68,2024-07-30 22:45:06,1,Item 1 for Order 68,3,476.02,5,2380.1,None
+162,35,Customer 35,2023-11-21 20:06:46,True,69,2024-05-19 09:14:46,1,Item 1 for Order 69,1,340.13,1,340.13,None
+163,36,Customer 36,2022-06-12 15:22:19,False,70,2025-11-03 16:22:57,,Item 1 for Order 70,1,471.69,1,471.69,None
+164,36,Customer 36,2022-06-12 15:22:19,False,70,2025-11-03 16:22:57,2,Item 2 for Order 70,0,69.45,0,0,None
+165,36,Customer 36,2022-06-12 15:22:19,False,70,2025-11-03 16:22:57,3,Item 3 for Order 70,4,5.99,5,29.950000000000003,None
+166,36,Customer 36,2022-06-12 15:22:19,False,70,2025-11-03 16:22:57,4,Item 4 for Order 70,0,426.04,3,1278.1200000000001,None
+167,36,Customer 36,2022-06-12 15:22:19,False,70,2025-11-03 16:22:57,5,Item 5 for Order 70,5,201.64,2,403.28,None
+168,36,Customer 36,2022-06-12 15:22:19,False,70,,None,None,None,None,None,None,None
+169,36,Customer 36,2022-06-12 15:22:19,False,70,2023-11-18 00:06:53,None,None,None,None,None,None,None
+170,37,Customer 37,2023-01-26 22:48:58,True,70,2021-08-23 00:00:00,None,None,None,None,None,None,None
+171,37,Customer 37,2023-01-26 22:48:58,True,70,2024-05-05 21:14:29,None,None,None,None,None,None,None
+172,37,Customer 37,2023-01-26 22:48:58,True,75,2025-01-25 19:34:04,1,Item 1 for Order 75,home goods,160.37,4,641.48,None
+173,38,Customer 38,2022-08-17 07:14:03,False,76,2025-04-06 22:19:31,1,Item 1 for Order 76,1,439.51,4,1758.04,None
+174,38,Customer 38,2022-08-17 07:14:03,False,76,2025-04-06 22:19:31,2,Item 2 for Order 76,99,404.6,4,1618.4,None
+175,38,Customer 38,2022-08-17 07:14:03,False,76,2025-04-06 22:19:31,3,Item 3 for Order 76,1,309.78,2,619.56,None
+176,38,Customer 38,2022-08-17 07:14:03,False,76,2025-04-06 22:19:31,4,Item 4 for Order 76,2,354.08,2,708.16,None
+177,38,Customer 38,2022-08-17 07:14:03,False,77,2023-07-18 20:24:00,1,Item 1 for Order 77,5,382.35,0,0,None
+178,38,Customer 38,2022-08-17 07:14:03,False,77,2023-07-18 20:24:00,2,Item 2 for Order 77,0,224.32,3,672.96,None
+179,38,Customer 38,2022-08-17 07:14:03,False,77,2023-07-18 20:24:00,3,Item 3 for Order 77,Misc Item,78.25,1,78.25,None
+180,38,Customer 38,2022-08-17 07:14:03,False,77,2025-04-14 05:35:05,None,None,None,None,None,None,None
+181,38,Customer 38,2022-08-17 07:14:03,False,77,2023-03-29 21:34:15,None,None,None,None,None,None,None
+182,39,Customer 39,2022-09-25 19:50:17,False,80,2023-08-02 17:31:01,1,Item 1 for Order 80,2,363.75,2,727.5,None
+183,39,Customer 39,2022-09-25 19:50:17,False,80,2023-08-02 17:31:01,2,Item 2 for Order 80,0,486.38,1,486.38,None
+184,39,Customer 39,2022-09-25 19:50:17,False,80,2023-08-02 17:31:01,3,Item 3 for Order 80, Books ,327.1,5,1635.5,None
+185,39,Customer 39,2022-09-25 19:50:17,False,80,2023-08-02 17:31:01,,Item 4 for Order 80,99,360.85,2,721.7,None
+186,39,Customer 39,2022-09-25 19:50:17,False,80,2023-08-02 17:31:01,5,Item 5 for Order 80,4,86.5,5,432.5,None
+187,40,Customer 40,2023-12-22 21:28:11,False,80,2023-12-26 06:24:20,None,None,None,None,None,None,None
+188,40,Customer 40,2023-12-22 21:28:11,False,80,2024-04-02 22:58:46,None,None,None,None,None,None,None
+189,40,Customer 40,2023-12-22 21:28:11,False,,2024-11-29 11:54:31,1,Item 1 for Order 83,0,348.44,5,1742.2,None
+190,40,Customer 40,2023-12-22 21:28:11,False,,2024-11-29 11:54:31,2,Item 2 for Order 83,1,349.74,2,699.48,None
+191,41,Customer 41,2022-07-11 00:00:00,False,ORD84,2023-08-02 23:44:34,1,Item 1 for Order 84,5,374.01,5,1870.05,None
+192,41,Customer 41,2022-07-11 00:00:00,False,ORD84,2023-08-02 23:44:34,2,Item 2 for Order 84,home goods,202.22,3,606.66,None
+193,41,Customer 41,2022-07-11 00:00:00,False,ORD84,2023-08-02 23:44:34,3,,4,403.57,3,1210.71,None
+194,41,Customer 41,2022-07-11 00:00:00,False,ORD84,2023-08-02 23:44:34,4,Item 4 for Order 84, Books ,397.38,4,1589.52,None
+195,41,Customer 41,2022-07-11 00:00:00,False,ORD84,2023-08-02 23:44:34,5,Item 5 for Order 84,0,220.18,5,1100.9,None
+196,42,Customer 42,2024-04-29 09:54:31,False,ORD84,2025-01-18 03:40:02,None,None,None,None,None,None,None
+197,42,Customer 42,2024-04-29 09:54:31,False,86,2024-02-07 14:20:07,1,Item 1 for Order 86,3,148.92,3,446.76,None
+198,42,Customer 42,2024-04-29 09:54:31,False,86,2024-02-07 14:20:07,2,Item 2 for Order 86,5,287.54,3,862.6200000000001,None
+199,42,Customer 42,2024-04-29 09:54:31,False,87,2024-10-07 16:19:30,1,Item 1 for Order 87,APPAREL,314.64,4,1258.56,None
+200,42,Customer 42,2024-04-29 09:54:31,False,87,2024-10-07 16:19:30,,Item 2 for Order 87,5,397.11,4,1588.44,None
+201,42,Customer 42,2024-04-29 09:54:31,False,87,2024-10-07 16:19:30,3,Item 3 for Order 87,5,16.98,3,50.94,None
+202,43,Customer 43,2023-02-24 18:34:08,True,None,None,None,None,None,None,None,None,None
+203,44,Customer 44,2023-11-25 18:37:47,False,87,2024-10-17 19:30:24,None,None,None,None,None,None,None
+204,44,Customer 44,2023-11-25 18:37:47,False,87,2024-12-30 19:36:01,None,None,None,None,None,None,None
+205,44,Customer 44,2023-11-25 18:37:47,False,ORD90,2024-12-15 05:57:27,1,Item 1 for Order 90,0,114.77,2,229.54,None
+206,44,Customer 44,2023-11-25 18:37:47,False,ORD90,2024-12-15 05:57:27,2,Item 2 for Order 90,0,178.6,1,178.6,None
+207,44,Customer 44,2023-11-25 18:37:47,False,ORD90,2024-12-15 05:57:27,3,Item 3 for Order 90,0,115.55,2,231.1,None
+208,44,Customer 44,2023-11-25 18:37:47,False,ORD90,2024-12-15 05:57:27,4,Item 4 for Order 90,5,216.04,3,648.12,None
+209,44,Customer 44,2023-11-25 18:37:47,False,ORD90,2024-12-15 05:57:27,5,Item 5 for Order 90,2,413.4,2,826.8,None
+210,45,Customer 45,2024-04-09 18:08:49,False,91,2023-01-13 00:00:00,1,Item 1 for Order 91,1,278.99,5,1394.95,None
+211,45,Customer 45,2024-04-09 18:08:49,False,91,2023-01-13 00:00:00,2,Item 2 for Order 91,4,54.36,5,271.8,None
+212,45,Customer 45,2024-04-09 18:08:49,False,91,2023-01-13 00:00:00,3,Item 3 for Order 91,3,378.45,5,1892.25,None
+213,45,Customer 45,2024-04-09 18:08:49,False,91,2023-01-13 00:00:00,4,Item 4 for Order 91,0,259.0,3,777.0,None
+214,46,Customer 46,2024-04-17 20:56:25,False,91,2025-01-03 06:38:31,None,None,None,None,None,None,None
+215,47,Customer 47,2024-04-10 20:00:25,False,None,None,None,None,None,None,None,None,None
+216,48,Customer 48,2022-04-22 20:22:30,False,93,2024-02-18 16:59:47,1,Item 1 for Order 93,2,132.21,1,132.21,None
+217,49,Customer 49,2022-06-04 23:35:47,False,94,2024-05-02 19:47:12,1,Item 1 for Order 94,5,362.76,5,1813.8,None
+218,49,Customer 49,2022-06-04 23:35:47,False,94,2024-05-02 19:47:12,2,Item 2 for Order 94,1,237.54,1,237.54,None
+219,49,Customer 49,2022-06-04 23:35:47,False,94,2024-05-02 19:47:12,3,Item 3 for Order 94,1,219.91,3,659.73,None
+220,49,Customer 49,2022-06-04 23:35:47,False,95,2024-05-18 21:27:32,1,Item 1 for Order 95,5,177.56,2,355.12,None
+221,49,Customer 49,2022-06-04 23:35:47,False,95,2024-05-18 21:27:32,2,Item 2 for Order 95,0,499.78,5,2498.8999999999996,None
+222,49,Customer 49,2022-06-04 23:35:47,False,95,2024-05-18 21:27:32,3,Item 3 for Order 95,4,377.47,1,377.47,None
+223,49,Customer 49,2022-06-04 23:35:47,False,95,2024-05-18 21:27:32,4,Item 4 for Order 95,1,235.05,4,940.2,None
+224,49,Customer 49,2022-06-04 23:35:47,False,96,2022-10-11 15:46:18,1,Item 1 for Order 96,1,87.65,4,350.6,None
+225,49,Customer 49,2022-06-04 23:35:47,False,96,2022-10-11 15:46:18,2,Item 2 for Order 96,2,353.45,1,353.45,None
+226,49,Customer 49,2022-06-04 23:35:47,False,96,2022-10-11 15:46:18,3,Item 3 for Order 96,home goods,383.1,4,1532.4,None
+227,49,Customer 49,2022-06-04 23:35:47,False,96,2022-10-11 15:46:18,4,Item 4 for Order 96,3,113.72,1,113.72,None
+228,49,Customer 49,2022-06-04 23:35:47,False,96,2022-10-11 15:46:18,5,Item 5 for Order 96,2,334.83,4,1339.32,None
+229,50,Customer 50,2022-02-10 22:54:25,False,97,2023-03-13 16:14:22,1,Item 1 for Order 97,4,297.3,5,1486.5,None
+230,50,Customer 50,2022-02-10 22:54:25,False,97,2023-03-13 16:14:22,2,Item 2 for Order 97,2,331.61,5,1658.0500000000002,None
+231,50,Customer 50,2022-02-10 22:54:25,False,97,2023-03-13 16:14:22,3,Item 3 for Order 97,2,91.2,5,456.0,None
+232,50,Customer 50,2022-02-10 22:54:25,False,97,2023-03-13 16:14:22,4,Item 4 for Order 97,99,163.15,4,652.6,None
+233,50,Customer 50,2022-02-10 22:54:25,False,98,2022-06-17 10:51:19,1,Item 1 for Order 98,3,412.42,2,824.84,None
+234,50,Customer 50,2022-02-10 22:54:25,False,98,2022-06-17 10:51:19,2,Item 2 for Order 98,0,471.93,1,471.93,None
+235,50,Customer 50,2022-02-10 22:54:25,False,99,2022-11-02 14:16:49,1,Item 1 for Order 99,0,160.34,2,320.68,None
+236,50,Customer 50,2022-02-10 22:54:25,False,99,2022-11-02 14:16:49,2,Item 2 for Order 99,4,477.82,1,477.82,None
